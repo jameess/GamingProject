@@ -1,0 +1,106 @@
+*{
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+#terminate{
+	font-weight:bold;
+	font-style:italic;
+	position:relative;
+	margin:0 0 0 0 ;
+	padding:15px 0px 15px 0px;
+	background-color:#B0E0E6;
+	color:black;
+	text-align:center;
+	border: 1px solid white;
+}
+#node{
+	position:relative;
+	float:left;
+	height:530px;
+	width:48%;
+	background: radial-gradient(white,aquamarine);
+	border:1px solid skyblue;
+	border-collapse:collapse;
+}
+#os{
+	position:relative;
+	float:right;
+	height:530px;
+	width:51.5%;
+	background: radial-gradient(white,aquamarine);
+	border:1px solid lightgreen;
+	border-collapse:collapse;
+}
+#max{
+	background-color:azure;
+}
+#need{
+	color:grey;
+	text-align: center;
+	font-style:italic;
+	font-size:40px;
+	text-decoration:underline;
+}
+#allocation{
+	color:grey;
+	text-align: center;
+	font-style:italic;
+	font-size:40px;
+	text-decoration:underline;
+}
+#dead{
+	text-align: center;
+}
+#goru{
+	font-family:cursive;
+	font-weight:normal;
+	padding-left: 160px;
+	padding-top: -12px;
+}
+input{
+	width : 200px;
+	height : 30px;
+}
+button{
+	width : 50px;
+	margin-left: 10px;
+	background: linear-gradient(white,pink); 
+	margin-right: -16px;
+	height:30px;
+	border-radius: 10px;
+	font-weight: bold;
+}
+button:hover{
+background: linear-gradient(pink,white);
+
+}
+#sos{
+	font-family:cursive;
+	font-weight:normal;
+	padding-left: 140px;
+	padding-top: -12px;
+}
+td{
+	padding:0 0 6px 0;
+}
+#deal{
+	font-style:italic;
+	float:right;
+	font-size:20px;
+	color:black;
+	background-color:lightblue;
+	width:100%;
+}
+#deal p{
+	float:right;
+
+}
+#deadly{
+	padding-left:120px;
+	height:150px;
+	width:400px;
+}
+#tuna{
+	width:100px;
+	height:32px;
+}
